@@ -5,8 +5,4 @@
 ! Expires: 1 day
 ! Description: Bộ lọc quảng cáo tùy chỉnh
 
-||phimmoichill.site^
-phimmoichill.site##.ads-banner
-phimmoichill.site##.popup
-||monplayer.net/ads^
-||monplayer.net/banner^
+||phimmoichill.site/newchill/*.gif
