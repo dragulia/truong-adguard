@@ -1,3 +1,11 @@
+! Title: Truong AdGuard Filter
+! Version: 2025.12.03
+! Homepage: https://github.com/dragulia/truong-adguard
+! Expires: 1 day
+! Description: Bộ lọc quảng cáo tùy chỉnh
+
 ||phimmoichill.site/newchill/*.gif
 phimmoichill.site##.ads-banner
 phimmoichill.site##.popup
+||monplayer.net/ads^
+||monplayer.net/banner^
