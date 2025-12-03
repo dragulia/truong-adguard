@@ -1,1 +1,3 @@
 ||phimmoichill.site/newchill/*.gif
+phimmoichill.site##.ads-banner
+phimmoichill.site##.popup
